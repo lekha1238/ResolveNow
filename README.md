@@ -1,2 +1,2 @@
 # ResolveNow
-To slove the Online complaints
+To solve the Online complaints
